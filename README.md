@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Ukraine-0057B7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20TypeScript-3178C6?style=flat-square" />
-  <a href="https://t.me/d_soltanovskyi"><img src="https://img.shields.io/badge/Telegram-@d__soltanovskyi-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Senior-Full--Stack%20Engineer-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Senior Full-Stack Engineer" />
+  <img src="https://img.shields.io/badge/Ukraine-Remote-0057B7?style=for-the-badge&logo=googlemaps&logoColor=FFD700" alt="Ukraine, Remote" />
+  <img src="https://img.shields.io/badge/Open%20to-work-2EA043?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to work" />
+  <a href="https://t.me/d_soltanovskyi"><img src="https://img.shields.io/badge/Telegram-@d__soltanovskyi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ---
@@ -26,9 +27,14 @@ I build production-grade web and mobile products end to end — from API design 
 
 ### Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,supabase,tailwind,redux,jest,docker,githubactions,git,figma&perline=15" />
-</p>
+<table>
+<tr><td><b>Languages</b></td><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" /></td></tr>
+<tr><td><b>Mobile</b></td><td><img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /> <img src="https://img.shields.io/badge/EAS%20Build-4630EB?style=for-the-badge&logo=expo&logoColor=white" alt="EAS Build" /> <img src="https://img.shields.io/badge/RevenueCat-F25A5A?style=for-the-badge&logo=revenuecat&logoColor=white" alt="RevenueCat" /></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" /> <img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ" /></td></tr>
+<tr><td><b>Data</b></td><td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></td></tr>
+<tr><td><b>Testing & DevOps</b></td><td><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></td></tr>
+</table>
 
 ### What I focus on
 
@@ -50,7 +56,10 @@ I build production-grade web and mobile products end to end — from API design 
 - Tests where they pay off; CI on every push
 - Measure before optimizing; ship iteratively
 
-
 ### Contact
 
-Open to Senior Full-Stack / Frontend roles (remote). The fastest way to reach me is Telegram: [@d_soltanovskyi](https://t.me/d_soltanovskyi).
+Open to Senior Full-Stack / Frontend roles (remote).
+
+<p>
+  <a href="https://t.me/d_soltanovskyi"><img src="https://img.shields.io/badge/Write%20me%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
