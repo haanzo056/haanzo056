@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Dmitriy 👋</h1>
-<h3 align="center">Senior Full-Stack Engineer · TypeScript · Web & Mobile</h3>
+<p align="center">
+  <a href="https://github.com/haanzo056">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+React+Native;Node.js+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL;Building+scalable+web+%26+mobile+products" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Ukraine-0057B7?style=flat-square" />
@@ -9,6 +13,8 @@
 ---
 
 ### About
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
 I build production-grade web and mobile products end to end — from API design and data modeling to polished UI and release pipelines.
 
