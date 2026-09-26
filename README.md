@@ -40,9 +40,3 @@ I build production-grade web and mobile products end to end — from API design 
 - Tests where they pay off; CI on every push
 - Measure before optimizing; ship iteratively
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haanzo056&show_icons=true&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haanzo056&layout=compact&hide_border=true" height="160" />
-</p>
