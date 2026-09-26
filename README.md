@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Ukraine-0057B7?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20TypeScript-3178C6?style=flat-square" />
+  <a href="https://t.me/d_soltanovskyi"><img src="https://img.shields.io/badge/Telegram-@d__soltanovskyi-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
@@ -49,3 +50,7 @@ I build production-grade web and mobile products end to end — from API design 
 - Tests where they pay off; CI on every push
 - Measure before optimizing; ship iteratively
 
+
+### Contact
+
+Open to Senior Full-Stack / Frontend roles (remote). The fastest way to reach me is Telegram: [@d_soltanovskyi](https://t.me/d_soltanovskyi).
