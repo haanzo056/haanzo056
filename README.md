@@ -23,16 +23,19 @@ I build production-grade web and mobile products end to end — from API design 
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,supabase,tailwind,redux,jest,docker,githubactions,git,figma&perline=15" />
 </p>
 
-### Featured projects
+### What I focus on
 
-| Project | What it shows |
-|---|---|
-| [nextjs-saas-dashboard](https://github.com/haanzo056/nextjs-saas-dashboard) | Next.js SaaS dashboard — auth, data fetching, charts, responsive layout |
-| [realtime-kanban](https://github.com/haanzo056/realtime-kanban) | Realtime collaborative board — live sync, optimistic updates |
-| [node-orders-api](https://github.com/haanzo056/node-orders-api) | Node.js orders API — layered architecture, validation, tests |
-| [rn-habit-tracker](https://github.com/haanzo056/rn-habit-tracker) | React Native / Expo habit tracker — offline-first state, notifications |
-| [react-ui-kit](https://github.com/haanzo056/react-ui-kit) | Reusable React component library — typed, themable, documented |
-| [ai-dev-workflow](https://github.com/haanzo056/ai-dev-workflow) | Tooling and conventions for AI-assisted development |
+- **Architecture** — feature-based structure, clear boundaries between UI, state and data layers, monorepos with shared packages
+- **Performance** — Core Web Vitals, SSR/streaming, list virtualization, fast startup and smooth 60 fps on mobile
+- **Data & state** — TanStack Query caching strategies, optimistic updates, offline-first sync
+- **Delivery** — CI/CD with GitHub Actions, EAS Build & OTA updates, preview environments
+- **Team** — code review, technical decisions (ADRs), mentoring and onboarding
+
+### Currently exploring
+
+- AI-assisted development workflows and LLM integrations in product features
+- Edge runtimes and serverless backends
+- Realtime collaboration patterns
 
 ### How I work
 
